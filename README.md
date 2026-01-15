@@ -26,6 +26,8 @@ Python-скрипт проверяет список email-адресов:
 Реализован Python-скрипт, который:
 - читает текст из файла `message.txt`
 - отправляет его в приватный Telegram-чат через Telegram-бота
+<img width="653" height="769" alt="image" src="https://github.com/user-attachments/assets/1a3855e9-331e-4410-a584-83bada5919ac" />
+
 
 ### Подготовка
 
